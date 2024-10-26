@@ -802,7 +802,7 @@ websockets==12.0 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:f764ba54e33daf20e167915edc443b6f88956f37fb606449b4a5b10ba42235a5 \
     --hash=sha256:fc4e7fa5414512b481a2483775a8e8be7803a35b30ca805afa4998a84f9fd9e8 \
     --hash=sha256:ffefa1374cd508d633646d51a8e9277763a9b78ae71324183693959cf94635a7
-werkzeug==3.0.3 ; python_version >= "3.10" and python_version < "4.0" \
+werkzeug==3.0.6 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:097e5bfda9f0aba8da6b8545146def481d06aa7d3266e7448e2cccf67dd8bd18 \
     --hash=sha256:fc9645dc43e03e4d630d23143a04a7f947a9a3b5727cd535fdfe155a17cc48c8
 wrapt==1.16.0 ; python_version >= "3.10" and python_version < "4.0" \
