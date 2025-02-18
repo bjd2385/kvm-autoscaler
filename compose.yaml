@@ -155,7 +155,7 @@ services:
       timeout: 5s
   grafana:
     container_name: grafana
-    image: grafana/grafana:9.5.20
+    image: grafana/grafana:11.5.2
     user: '0'
     restart: unless-stopped
     environment:
